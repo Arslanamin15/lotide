@@ -11,3 +11,6 @@ assertEqual("Lighthouse Labs", "Bootcamp");
 assertEqual(1, 1);
 assertEqual(2, 1);
 assertEqual("Arslan", "Arslan");
+
+const name = 'Alice';
+console.log(`Hello, ${name}!`);
